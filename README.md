@@ -26,15 +26,38 @@ A responsive, interactive language learning web app built with React.js. Learn n
     * APIs: [e.g., Google Translate API, SpeechRecognition API]
 
     * State Management: React Context / Redux (if applicable)
-Installation
+    
+######Installation
 
-Clone the repository and install dependencies:
+1.Clone the repository and install dependencies:
 
-git clone https://github.com/Shamimlytton2024/Phase-2-Language-App.git
-cd 
+2.git clone https://github.com/Shamimlytton2024/Phase-2-Language-App.git
+cd phase-2-Language-App
+
+Run the app locally:
+bash
+npm start
+
+bash
 npm install
 
+###### Folder Structure
 
-####
+src/
+├── components/
+├── pages/
+├── assets/
+├── hooks/
+├── context/
+├── App.js
+├── index.js
+
+##### License
+
+MIT
+
+AURTHOR:
+SHAMIM KALANDE
+
 
     

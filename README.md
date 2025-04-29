@@ -30,8 +30,8 @@ Installation
 
 Clone the repository and install dependencies:
 
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Shamimlytton2024/Phase-2-Language-App.git
+cd 
 npm install
 
 
